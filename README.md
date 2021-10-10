@@ -6,4 +6,5 @@ Program Explanation Video: https://youtu.be/y4WeogO8Gmw
 
 ### Week 2
 Dancing Program Explanation Video: https://youtu.be/RHbPYDWke44
+
 Animal Remix Program Explanation Video: https://youtu.be/ukWVtNXrqwc
