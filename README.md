@@ -8,3 +8,6 @@ Program Explanation Video: https://youtu.be/y4WeogO8Gmw
 Dancing Program Explanation Video: https://youtu.be/RHbPYDWke44
 
 Animal Remix Program Explanation Video: https://youtu.be/ukWVtNXrqwc
+
+### Week 3
+Nested Loop Explanation Video: https://youtu.be/ImhrxSMyYjI
