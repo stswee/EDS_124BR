@@ -11,4 +11,5 @@ Animal Remix Program Explanation Video: https://youtu.be/ukWVtNXrqwc
 
 ### Week 3
 Nested Loop Explanation Video: https://youtu.be/ImhrxSMyYjI
+
 Monkey Game Explanation Video: https://youtu.be/CcpRWDjvDYA
