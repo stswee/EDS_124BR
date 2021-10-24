@@ -13,3 +13,6 @@ Animal Remix Program Explanation Video: https://youtu.be/ukWVtNXrqwc
 Nested Loop Explanation Video: https://youtu.be/ImhrxSMyYjI
 
 Monkey Game Explanation Video: https://youtu.be/CcpRWDjvDYA
+
+### Week 4
+Variables and Shapes Explanation Video: https://youtu.be/gTdAfsA1ofo
