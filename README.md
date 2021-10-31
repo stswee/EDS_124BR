@@ -16,3 +16,6 @@ Monkey Game Explanation Video: https://youtu.be/CcpRWDjvDYA
 
 ### Week 4
 Variables and Shapes Explanation Video: https://youtu.be/gTdAfsA1ofo
+
+### Week 5
+Conditional Loops Explanation Video: https://youtu.be/_gp1uVigaus 
