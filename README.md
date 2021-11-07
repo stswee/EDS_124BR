@@ -19,3 +19,6 @@ Variables and Shapes Explanation Video: https://youtu.be/gTdAfsA1ofo
 
 ### Week 5
 Conditional Loops Explanation Video: https://youtu.be/_gp1uVigaus 
+
+### Week 6
+If Else Statements Explanation Video: https://youtu.be/HR-Y6apqJrg
