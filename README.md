@@ -22,3 +22,6 @@ Conditional Loops Explanation Video: https://youtu.be/_gp1uVigaus
 
 ### Week 6
 If Else Statements Explanation Video: https://youtu.be/HR-Y6apqJrg
+
+### Week 7
+Nested If Else Statements Explanation Video: https://youtu.be/SQ7pcEoFVOQ
