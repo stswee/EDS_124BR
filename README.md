@@ -25,3 +25,6 @@ If Else Statements Explanation Video: https://youtu.be/HR-Y6apqJrg
 
 ### Week 7
 Nested If Else Statements Explanation Video: https://youtu.be/SQ7pcEoFVOQ
+
+### Week 8
+Compound Conditional Explanation Video: https://youtu.be/IakxX6k-D88
