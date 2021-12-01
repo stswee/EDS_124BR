@@ -28,3 +28,6 @@ Nested If Else Statements Explanation Video: https://youtu.be/SQ7pcEoFVOQ
 
 ### Week 8
 Compound Conditional Explanation Video: https://youtu.be/IakxX6k-D88
+
+### Week 9
+Abstraction Explanation Video: https://youtu.be/OOzMCfa8A4o
